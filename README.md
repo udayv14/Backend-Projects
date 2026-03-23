@@ -1,1 +1,2 @@
-Express and Mongodb Related
+Mini User Post Interection Website.
+Using Expressjs, EJS and MongoDB
